@@ -1,4 +1,4 @@
 # CoinCounter
 Computer vision project for calculating the amount of coins
 
-![Uploading clideo_editor_8374d5ebff5c43bc930b42ae14fc0650.gif…]()
+https://github.com/DakonFoo/CoinCounter/assets/47159069/f3ddac7b-458c-4c50-a49d-e260ea2fb90c
